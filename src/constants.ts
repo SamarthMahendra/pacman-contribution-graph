@@ -16,7 +16,7 @@ export const GAME_THEMES: { [key in ThemeKeys]: GameTheme } = {
 	github: {
 		textColor: '#586069',
 		gridBackground: '#ffffff',
-		contributionBoxColor: '#9be9a8',
+		contributionBoxColor: '#40c463',
 		emptyContributionBoxColor: '#ebedf0',
 		wallColor: '#000000'
 	},
